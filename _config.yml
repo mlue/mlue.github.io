@@ -1,0 +1,8 @@
+title: mlue.github.io
+description: home
+google_analytics: UA-40375539-3
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
